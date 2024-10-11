@@ -1,10 +1,10 @@
 <!-- Introduction -->
-<h1 align="center">Olá 👋, I'm João Rufino</h1>
+<h1 align="center">Olá 👋, I'm João </h1>
 <h3 align="center">A DevOps Engineer & Tech Innovator from Portugal</h3>
 
 <!-- Portfolio and Contact -->
 <p align="center">
-  You can reach me at <a href="mailto:joao.rufino@example.com">joao.rufino@example.com</a><br>
+  You can reach me at <a href="mailto:joao.rufino@septagon.dev">joao.rufino@septagon.dev</a><br>
   🤝 I'm open to collaborating on exciting projects!
 </p>
 
